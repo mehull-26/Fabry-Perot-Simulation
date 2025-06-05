@@ -15,7 +15,7 @@ This project aims to simulate the physics of a Fabry-Perot etalon with a strong 
   - Arbitrary spherical lenses supported.
 
   - Full Snell’s Law calculation at each interface.
-  - Path lenght is also calculated.
+  - Path length is also calculated.
 
 - Configurable Parameters:
 
